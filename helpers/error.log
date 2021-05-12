@@ -1,0 +1,1986 @@
+2020-05-28T16:28:38: ReferenceError: TOKEN is not defined
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\config\telegram.js:10:40)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\telegramBot\bot.js:1:25)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30) uncaughtException
+2020-05-28T16:29:40: Telegram API error:  {
+  ok: false,
+  error_code: 403,
+  description: 'Forbidden: bot is not a member of the channel chat'
+}
+2020-05-28T16:29:40: CRON sync error:  Telegram sending message error
+2020-05-28T16:29:40: Telegram API error:  {
+  ok: false,
+  error_code: 403,
+  description: 'Forbidden: bot is not a member of the channel chat'
+}
+2020-05-28T16:29:40: Telegram API error:  {
+  ok: false,
+  error_code: 403,
+  description: 'Forbidden: bot is not a member of the channel chat'
+}
+2020-05-28T19:14:00: C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:9
+    async static start(storeFinish){
+                 ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Object.compileFunction (vm.js:344:18)
+    at wrapSafe (internal/modules/cjs/loader.js:1106:15)
+    at Module._compile (internal/modules/cjs/loader.js:1140:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:4:14) uncaughtException
+2020-05-28T19:14:15: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:16:00: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:16:15: C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:15
+                "x-requested-with": "XMLHttpRequest",
+                ^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at Object.compileFunction (vm.js:344:18)
+    at wrapSafe (internal/modules/cjs/loader.js:1106:15)
+    at Module._compile (internal/modules/cjs/loader.js:1140:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:4:14) uncaughtException
+2020-05-28T19:16:28: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:16:40: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:16:55: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:17:01: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:18:00: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:18:02: C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:28
+        let data = "method=login&uri=&login=rossomakha20000%40gmail.com&pwd=998877qwaszxQW&remember=on&g-recaptcha-response=&capcode=false"
+            ^
+
+SyntaxError: Identifier 'data' has already been declared
+    at Object.compileFunction (vm.js:344:18)
+    at wrapSafe (internal/modules/cjs/loader.js:1106:15)
+    at Module._compile (internal/modules/cjs/loader.js:1140:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:4:14) uncaughtException
+2020-05-28T19:18:07: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:45:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:18:17: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:45:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:19:05: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:46:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:19:17: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:44:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:19:24: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:20:00: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:21:25: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:43:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:21:48: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:44:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:22:00: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:44:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:24:05: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:44:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:25:11: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:25:18: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:25:25: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:25:31: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:26:00: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:9)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-28T19:26:12: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:10:9)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\asyncify.js:80:34
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:25:39
+    at replenish (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:81:17)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:86:9
+    at eachOfLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOfLimit.js:43:43)
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at eachOfSeries (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOfSeries.js:36:36)
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:24:5
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at series (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\series.js:84:33)
+    at CronJob.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:28:9)
+    at CronJob.fireOnTick (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cron\lib\cron.js:600:23)
+    at new CronJob (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cron\lib\cron.js:572:15)
+    at Object.module.exports.cronInit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:19:5)
+2020-05-28T19:26:35: CRON sync error:  TypeError: storeFinish is not a function
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:42:16)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-05-30T14:03:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:03:26: CRON sync error:  Telegram sending message error
+2020-05-30T14:08:55: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:08:55: CRON sync error:  Telegram sending message error
+2020-05-30T14:08:55: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:08:55: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:08:55: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:08:55: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:10:15: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:10:15: CRON sync error:  Telegram sending message error
+2020-05-30T14:10:15: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:10:15: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:10:15: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:10:15: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:12:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:12:26: CRON sync error:  Telegram sending message error
+2020-05-30T14:12:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:12:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:12:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:12:26: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:13:40: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:13:40: CRON sync error:  Telegram sending message error
+2020-05-30T14:13:40: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:13:40: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:13:40: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:13:40: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:32:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:32:23: CRON sync error:  Telegram sending message error
+2020-05-30T14:32:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:32:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:32:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:32:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:33:49: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:33:49: CRON sync error:  Telegram sending message error
+2020-05-30T14:33:49: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:33:49: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:33:49: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:33:49: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:37:20: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:37:20: CRON sync error:  Telegram sending message error
+2020-05-30T14:37:20: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:37:20: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:37:20: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:37:20: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:38:12: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:38:12: CRON sync error:  Telegram sending message error
+2020-05-30T14:38:12: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:38:12: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:38:12: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:38:12: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:39:08: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:39:08: CRON sync error:  Telegram sending message error
+2020-05-30T14:39:08: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:39:08: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:39:08: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:39:08: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:00: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:00: CRON sync error:  Telegram sending message error
+2020-05-30T14:43:00: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:00: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:00: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:00: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:58: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:58: CRON sync error:  Telegram sending message error
+2020-05-30T14:43:58: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:58: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:58: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:43:58: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:45:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:45:05: CRON sync error:  Telegram sending message error
+2020-05-30T14:45:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:45:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:45:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:45:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:46:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:46:05: CRON sync error:  Telegram sending message error
+2020-05-30T14:46:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:46:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:46:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T14:46:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: 'Bad Request: wrong remote file identifier specified: Wrong string length'
+}
+2020-05-30T21:25:26: TypeError: Cannot read property 'append' of null
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:16:27
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-05-30T21:25:40: TypeError: Cannot read property 'push' of null
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:16:27
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-05-30T21:25:49: TypeError: orders.append is not a function
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:16:28
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-05-30T21:42:49: ReferenceError: tempOrder is not defined
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:23:37
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-05-30T21:42:58: TypeError: Cannot read property 'Копирайтинг' of undefined
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:26:49
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-05-30T21:45:13: TypeError: Cannot read property 'Копирайтинг' of undefined
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:29:41
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T17:33:18: CRON sync error:  [
+  'Error trying to get order in DB text.ru: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:76:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:67:17
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-01T17:39:01: ReferenceError: i is not defined
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:68:36
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T17:56:37: TypeError: Cannot read property 'slice' of undefined
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:65:56
+    at Array.forEach (<anonymous>)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:63:24
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T18:00:35: TypeError: orders[i].price.indexOf is not a function
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:64:80
+    at Array.forEach (<anonymous>)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:63:24
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T18:01:06: CRON sync error:  [
+  'Error trying to get order in DB text.ru: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:82:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:73:17
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-01T18:01:25: CRON sync error:  [
+  'Error trying to get order in DB etxt.ru: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:82:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:73:17
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-01T18:02:00: CRON sync error:  [
+  'Error trying to get order in DB etxt.ru: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:82:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:73:17
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-01T18:02:45: CRON sync error:  Error saving new order in DB etxt.ru
+2020-06-01T18:03:00: CRON sync error:  Error saving new order in DB etxt.ru
+2020-06-01T18:03:32: CRON sync error:  Error saving new order in DB etxt.ru
+2020-06-01T18:04:00: CRON sync error:  Error saving new order in DB etxt.ru
+2020-06-01T18:04:38: CRON sync error:  [
+  'Error saving new order in DB etxt.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-01T18:05:00: CRON sync error:  [
+  'Error saving new order in DB etxt.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-01T18:05:26: RangeError: Invalid time value
+    at Date.toISOString (<anonymous>)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:55:81
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T18:06:05: RangeError: Invalid time value
+    at Date.toISOString (<anonymous>)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\etxtruStore.js:55:81
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) uncaughtException
+2020-06-01T18:06:10: CRON sync error:  [
+  'Error saving new order in DB etxt.ru',
+  Error [ValidationError]: orders validation failed: deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-01T18:07:00: CRON sync error:  [
+  'Error saving new order in DB etxt.ru',
+  Error [ValidationError]: orders validation failed: deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-02T19:41:11: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    at new ClientRequest (_http_client.js:151:13)
+    at Object.request (https.js:310:10)
+    at Needle.send_request (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:485:26)
+    at next (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:378:10)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:318:9
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:19:16)
+    at append (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:52:5)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:62:7
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  code: 'ERR_UNESCAPED_CHARACTERS'
+} uncaughtException
+2020-06-02T19:41:11: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    at new ClientRequest (_http_client.js:151:13)
+    at Object.request (https.js:310:10)
+    at Needle.send_request (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:485:26)
+    at next (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:378:10)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:318:9
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:19:16)
+    at append (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:52:5)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:62:7
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  code: 'ERR_UNESCAPED_CHARACTERS'
+} uncaughtException
+2020-06-02T19:41:11: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    at new ClientRequest (_http_client.js:151:13)
+    at Object.request (https.js:310:10)
+    at Needle.send_request (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:485:26)
+    at next (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:378:10)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:318:9
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:19:16)
+    at append (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:52:5)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\multipart.js:62:7
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  code: 'ERR_UNESCAPED_CHARACTERS'
+} uncaughtException
+2020-06-02T20:17:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:17:05: CRON sync error:  Telegram sending message error
+2020-06-02T20:17:05: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:21:22: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_4_130руб_1591129281069.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_4_130руб_1591129281069.jpg'
+} uncaughtException
+2020-06-02T20:21:22: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:21:22: CRON sync error:  Telegram sending message error
+2020-06-02T20:21:22: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:21:23: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:22:34: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:22:34: CRON sync error:  Telegram sending message error
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:06: CRON sync error:  Telegram sending message error
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:06: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: CRON sync error:  Telegram sending message error
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:25:57: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:52:18: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_2_70руб_1591131136372.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_2_70руб_1591131136372.jpg'
+} uncaughtException
+2020-06-02T20:53:47: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_2_110руб_1591131225240.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_2_110руб_1591131225240.jpg'
+} uncaughtException
+2020-06-02T20:56:02: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_1_20руб_1591131360407.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_1_20руб_1591131360407.jpg'
+} uncaughtException
+2020-06-02T20:56:02: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_2_95руб_1591131360408.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_2_95руб_1591131360408.jpg'
+} uncaughtException
+2020-06-02T20:56:07: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:56:07: CRON sync error:  Telegram sending message error
+2020-06-02T20:56:07: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:56:07: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:56:07: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-02T20:56:07: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: CRON sync error:  Telegram sending message error
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:17:27: Telegram API error:  {
+  ok: false,
+  error_code: 400,
+  description: "Bad Request: can't parse reply keyboard markup JSON object"
+}
+2020-06-08T09:23:15: [Error: ENOENT: no such file or directory, open 'C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\assets\images\postBannersTemplates\temp\banner_2_72руб_1591608192991.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Files\\Programs\\OpenServer\\OpenServer\\domains\\garant-application\\parser\\assets\\images\\postBannersTemplates\\temp\\banner_2_72руб_1591608192991.jpg'
+}
+2020-06-19T09:28:53: WP API error:  Error: Request failed with status code 403
+    at createError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\axios\lib\adapters\http.js:236:11)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  config: {
+    url: 'https://webdiscount.ru/wp-json/wc/v3/products',
+    method: 'post',
+    params: {},
+    data: '{"name":"Зоомагазин","type":"simple","regular_price":"600.00","description":"<b>Задача:</b> Требуется написать описание разделов.\\n<b>Требуемая уникальность:</b> 100% по text.ru\\n<b>Цель текста:</b> предоставить понятное описание услуги/товара, свойство-выгода, продать услугу/товар.\\n<b>Общие требования к тексту:</b>\\nМатериал должен быть хорошего качества, и разбит на логические блоки, которые позволят читателю быстро оценить его содержание и прочитать (при необходимости) лишь интересующую его часть.\\nВ тексте необходимо использовать (как минимум) 1 список перечисления.\\nСписки перечисления должны находиться на расстоянии от начала и конца текста минимум в 300 символов, расстояние между списками перечисления должно быть минимум 450 символов.\\nВ тексте должны быть подзаголовки второго уровня, минимальный промежуток между подзаголовками 600 символов, максимальный 800 символов.\\nКлючевые фразы должны быть равномерно распределены по тексту.\\n<b></b>\\n<b>Если ключевая фраза не созвучна, разрешается менять слова местами и склонять.</b>\\n<b></b>\\n<b>Сайт:https://mydog.by/</b>\\n\\n1) Сухой корм для собак\\nПосадочная: https://mydog.by/dogs/suhoi-korm-dlya-sobak/\\nКоличество символов: 2000\\nКлючевые слова:\\nкупить сухой корм +для собак\\nкупить сухой корм +для щенков\\nсухой корм +для собак\\nсухой корм +для собак +в минске\\nсухой корм +для собак купить +в минске\\nсухой корм +для собак купить цена\\nкорм +для щенков купить +в минске\\nкупить корм +для собак\\nкупить корм +для собак +в интернет магазине\\nкупить корм +для собак цена\\n\\n2) Сухой корм для кошек\\nПосадочная: https://mydog.by/cats/suhoi-korm-dlya-koshek/\\nКоличество символов: 2000\\nКлючевые слова:\\nкупить сухой корм +для кошек\\nсухой корм +для котов купить минск\\nсухой корм +для кошек минск купить\\nкупить сухой корм\\nсухой корм минск\\nцена сухого корма\\nroyal canin купить +в минске\\nкорм +для котят цена\\nкорм +для кошек минск\\nкупить корм +для кошек\\nкупить корм +для кошек +в интернет магазине\\n\\n3) Силикагелевый наполнитель для кошачьего туалета\\nПосадочная: https://mydog.by/cats/napolnitel-dlya-tualeta/silikagelevii/\\nКоличество символов: 2000\\nКлючевые слова:\\nсиликагелевые наполнители +для туалета\\nсиликагелевый наполнитель +для кошачьего туалета\\nсиликагелевый наполнитель купить\\nсиликагель наполнитель купить\\nнаполнитель силикагелевый купить минск\\nкошачий наполнитель силикагель\\n\\n4) Когтеточки\\nПосадочная: https://mydog.by/cats/kogtetochki-dlya-koshek/\\nКоличество символов: 2000\\nКлючевые слова:\\nкогтеточка +для кошек\\nкогтеточка +для кошек купить\\nкогтеточка +для кошек купить +в минске\\nкогтеточка +для кошек минск\\nкупить когтеточку +для кота +в минске\\n\\n5) Интернет-зоомагазин mydog (главная)\\nПосадочная: https://mydog.by/\\nКоличество символов: 2000\\nКлючевые слова:\\nзоомагазин интернет магазин минск\\nинтернет зоомагазин +в минске\\nинтернет зоомагазин +с доставкой\\nкупить товары +для животных\\nтовары +для животных минск\\nкупить корм +для кошек\\nкупить корм +для собак","categories":[{"id":90}],"images":[{"src":"https://api.telegram.org/file/bot1178364015:AAGceQArYa5fhFasW8gvVIRCasXXzQpKwtc/photos/file_451.jpg"}],"meta_data":[{"key":"orderLink","value":"https://text.ru/webdiscount/exchange/orders/view/107303455"}]}',
+    headers: {
+      Accept: 'application/json',
+      'Content-Type': 'application/json;charset=utf-8',
+      'User-Agent': 'WooCommerce REST API - JS Client/1.0.1',
+      'Content-Length': 5262
+    },
+    auth: {
+      username: 'ck_32e87dadad49400af6e1e92740338386e1aaff09',
+      password: 'cs_397118c82190f1f85436658b552f10398e6a4b75'
+    },
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    responseType: 'json',
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    validateStatus: [Function: validateStatus],
+    responseEncoding: 'utf8'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      socket: [Function (anonymous)],
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      error: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 6,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: true,
+      _SNICallback: null,
+      servername: 'webdiscount.ru',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'webdiscount.ru',
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(asyncId)]: 436,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /wp-json/wc/v3/products HTTP/1.1\r\n' +
+      'Accept: application/json\r\n' +
+      'Content-Type: application/json;charset=utf-8\r\n' +
+      'User-Agent: WooCommerce REST API - JS Client/1.0.1\r\n' +
+      'Content-Length: 5262\r\n' +
+      'Host: webdiscount.ru\r\n' +
+      'Authorization: Basic Y2tfMzJlODdkYWRhZDQ5NDAwYWY2ZTFlOTI3NDAzMzgzODZlMWFhZmYwOTpjc18zOTcxMThjODIxOTBmMWY4NTQzNjY1OGI1NTJmMTAzOThlNmE0Yjc1\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/wp-json/wc/v3/products',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 403,
+      statusMessage: 'Forbidden',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://ck_32e87dadad49400af6e1e92740338386e1aaff09:cs_397118c82190f1f85436658b552f10398e6a4b75@webdiscount.ru/wp-json/wc/v3/products',
+      redirects: [],
+      [Symbol(kCapture)]: false
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 5262,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://ck_32e87dadad49400af6e1e92740338386e1aaff09:cs_397118c82190f1f85436658b552f10398e6a4b75@webdiscount.ru/wp-json/wc/v3/products',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array],
+      authorization: [Array]
+    }
+  },
+  response: {
+    status: 403,
+    statusText: 'Forbidden',
+    headers: {
+      server: 'nginx-reuseport/1.13.4',
+      date: 'Fri, 19 Jun 2020 09:28:53 GMT',
+      'content-type': 'text/html',
+      'content-length': '179',
+      connection: 'close'
+    },
+    config: {
+      url: 'https://webdiscount.ru/wp-json/wc/v3/products',
+      method: 'post',
+      params: {},
+      data: '{"name":"Зоомагазин","type":"simple","regular_price":"600.00","description":"<b>Задача:</b> Требуется написать описание разделов.\\n<b>Требуемая уникальность:</b> 100% по text.ru\\n<b>Цель текста:</b> предоставить понятное описание услуги/товара, свойство-выгода, продать услугу/товар.\\n<b>Общие требования к тексту:</b>\\nМатериал должен быть хорошего качества, и разбит на логические блоки, которые позволят читателю быстро оценить его содержание и прочитать (при необходимости) лишь интересующую его часть.\\nВ тексте необходимо использовать (как минимум) 1 список перечисления.\\nСписки перечисления должны находиться на расстоянии от начала и конца текста минимум в 300 символов, расстояние между списками перечисления должно быть минимум 450 символов.\\nВ тексте должны быть подзаголовки второго уровня, минимальный промежуток между подзаголовками 600 символов, максимальный 800 символов.\\nКлючевые фразы должны быть равномерно распределены по тексту.\\n<b></b>\\n<b>Если ключевая фраза не созвучна, разрешается менять слова местами и склонять.</b>\\n<b></b>\\n<b>Сайт:https://mydog.by/</b>\\n\\n1) Сухой корм для собак\\nПосадочная: https://mydog.by/dogs/suhoi-korm-dlya-sobak/\\nКоличество символов: 2000\\nКлючевые слова:\\nкупить сухой корм +для собак\\nкупить сухой корм +для щенков\\nсухой корм +для собак\\nсухой корм +для собак +в минске\\nсухой корм +для собак купить +в минске\\nсухой корм +для собак купить цена\\nкорм +для щенков купить +в минске\\nкупить корм +для собак\\nкупить корм +для собак +в интернет магазине\\nкупить корм +для собак цена\\n\\n2) Сухой корм для кошек\\nПосадочная: https://mydog.by/cats/suhoi-korm-dlya-koshek/\\nКоличество символов: 2000\\nКлючевые слова:\\nкупить сухой корм +для кошек\\nсухой корм +для котов купить минск\\nсухой корм +для кошек минск купить\\nкупить сухой корм\\nсухой корм минск\\nцена сухого корма\\nroyal canin купить +в минске\\nкорм +для котят цена\\nкорм +для кошек минск\\nкупить корм +для кошек\\nкупить корм +для кошек +в интернет магазине\\n\\n3) Силикагелевый наполнитель для кошачьего туалета\\nПосадочная: https://mydog.by/cats/napolnitel-dlya-tualeta/silikagelevii/\\nКоличество символов: 2000\\nКлючевые слова:\\nсиликагелевые наполнители +для туалета\\nсиликагелевый наполнитель +для кошачьего туалета\\nсиликагелевый наполнитель купить\\nсиликагель наполнитель купить\\nнаполнитель силикагелевый купить минск\\nкошачий наполнитель силикагель\\n\\n4) Когтеточки\\nПосадочная: https://mydog.by/cats/kogtetochki-dlya-koshek/\\nКоличество символов: 2000\\nКлючевые слова:\\nкогтеточка +для кошек\\nкогтеточка +для кошек купить\\nкогтеточка +для кошек купить +в минске\\nкогтеточка +для кошек минск\\nкупить когтеточку +для кота +в минске\\n\\n5) Интернет-зоомагазин mydog (главная)\\nПосадочная: https://mydog.by/\\nКоличество символов: 2000\\nКлючевые слова:\\nзоомагазин интернет магазин минск\\nинтернет зоомагазин +в минске\\nинтернет зоомагазин +с доставкой\\nкупить товары +для животных\\nтовары +для животных минск\\nкупить корм +для кошек\\nкупить корм +для собак","categories":[{"id":90}],"images":[{"src":"https://api.telegram.org/file/bot1178364015:AAGceQArYa5fhFasW8gvVIRCasXXzQpKwtc/photos/file_451.jpg"}],"meta_data":[{"key":"orderLink","value":"https://text.ru/webdiscount/exchange/orders/view/107303455"}]}',
+      headers: [Object],
+      auth: [Object],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      responseType: 'json',
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      validateStatus: [Function: validateStatus],
+      responseEncoding: 'utf8'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 6,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'POST /wp-json/wc/v3/products HTTP/1.1\r\n' +
+        'Accept: application/json\r\n' +
+        'Content-Type: application/json;charset=utf-8\r\n' +
+        'User-Agent: WooCommerce REST API - JS Client/1.0.1\r\n' +
+        'Content-Length: 5262\r\n' +
+        'Host: webdiscount.ru\r\n' +
+        'Authorization: Basic Y2tfMzJlODdkYWRhZDQ5NDAwYWY2ZTFlOTI3NDAzMzgzODZlMWFhZmYwOTpjc18zOTcxMThjODIxOTBmMWY4NTQzNjY1OGI1NTJmMTAzOThlNmE0Yjc1\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/wp-json/wc/v3/products',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: '<html>\r\n' +
+      '<head><title>403 Forbidden</title></head>\r\n' +
+      '<body bgcolor="white">\r\n' +
+      '<center><h1>403 Forbidden</h1></center>\r\n' +
+      '<hr><center>nginx-reuseport/1.13.4</center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n'
+  },
+  isAxiosError: true,
+  toJSON: [Function (anonymous)]
+}
+2020-06-19T09:28:53: CRON sync error:  Wordpress sending message error
+2020-06-20T17:38:53: ReferenceError: body is not defined
+    at start (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:18:61)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:25:39
+    at replenish (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:81:17)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:86:9
+    at eachOfLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOfLimit.js:43:43)
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at eachOfSeries (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOfSeries.js:36:36)
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:24:5
+    at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+    at series (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\series.js:84:33)
+    at CronJob.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:30:9)
+    at CronJob.fireOnTick (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cron\lib\cron.js:600:23)
+    at new CronJob (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cron\lib\cron.js:572:15)
+    at Object.module.exports.cronInit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:21:5)
+    at NativeConnection.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:13:10)
+2020-06-20T18:21:10: ReferenceError: price is not defined
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:31:29)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-20T18:39:36: TypeError: Cannot read property 'trim' of undefined
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:29:73)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-20T18:40:01: TypeError: Cannot read property 'trim' of undefined
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:29:73)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-20T18:41:47: TypeError: $(...).find(...).getAttribute is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:29:61)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-20T18:42:01: TypeError: $(...).getAttribute is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:29:64)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T16:37:53: TypeError: order.deadlineStamp.getFullYear is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:47:57)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T16:38:01: TypeError: order.deadlineStamp.getFullYear is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:47:57)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T16:38:05: TypeError: order.deadlineStamp.getUTCFullYear is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:47:57)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T16:38:30: TypeError: order.deadlineStamp.getFullYear is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:47:57)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T16:39:01: TypeError: order.deadlineStamp.getFullYear is not a function
+    at Node.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:47:57)
+    at initialize.exports.each (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:26:29
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+    at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+    at PassThrough.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1225:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-06-21T17:13:55: CRON sync error:  [
+  'Error trying to get order in DB advego.com: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:95:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:56:13
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-21T17:14:01: CRON sync error:  [
+  'Error trying to get order in DB advego.com: ',
+  MongooseError [CastError]: Cast to number failed for value "NaN" at path "createdAtStamp" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:95:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:56:13
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"NaN"',
+    kind: undefined,
+    value: NaN,
+    path: 'createdAtStamp',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.handleSingle (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:393:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:434:20)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1415:17)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:296:39)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-21T17:14:51: CRON sync error:  [
+  'Error trying to get order in DB advego.com: ',
+  MongooseError [CastError]: Cast to number failed for value "54.44 руб." at path "price" for model "orders"
+      at new CastError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\cast.js:29:11)
+      at model.Query.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4339:21)
+      at model.Query.Query.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2216:8)
+      at Function.findOne (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:2214:13)
+      at process (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:95:21)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\withoutIndex.js:8:40
+      at eachOfArrayLike (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:61:9)
+      at eachOf (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\eachOf.js:112:12)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at eachLimit (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\each.js:84:31)
+      at awaitable (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\awaitify.js:13:28)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\stores\copyright\advegocomStore.js:56:13
+      at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:449:14)
+      at PassThrough.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\needle\lib\needle.js:694:9)
+      at PassThrough.emit (events.js:315:20)
+      at endReadableNT (_stream_readable.js:1225:12) {
+    messageFormat: undefined,
+    stringValue: '"54.44 руб."',
+    kind: undefined,
+    value: '54.44 руб.',
+    path: 'price',
+    reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+    
+      assert.ok(!isNaN(val))
+    
+        at castNumber (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast\number.js:28:10)
+        at SchemaNumber.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:382:12)
+        at SchemaNumber.SchemaType.applySetters (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1023:12)
+        at SchemaNumber.SchemaType._castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1451:15)
+        at SchemaNumber.castForQuery (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schema\number.js:436:14)
+        at SchemaNumber.SchemaType.castForQueryWrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\schematype.js:1420:15)
+        at cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\cast.js:317:32)
+        at model.Query.Query.cast (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:4716:12)
+        at model.Query.Query._castConditions (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:1861:10)
+        at model.Query.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\query.js:2118:8)
+        at model.Query._wrappedThunk [as _findOne] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+        at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:369:33
+        at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+      generatedMessage: true,
+      code: 'ERR_ASSERTION',
+      actual: false,
+      expected: true,
+      operator: '=='
+    }
+  }
+]
+2020-06-21T17:21:40: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:22:01: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:23:01: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:24:43: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:25:01: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:25:29: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-06-21T17:26:01: CRON sync error:  [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: orders validation failed: createdAtStamp: Cast to Number failed for value "NaN" at path "createdAtStamp", deadlineStamp: Cast to Number failed for value "NaN" at path "deadlineStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\parser\cron.js:32:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:32:15
+      at wrapper (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\once.js:12:16)
+      at iterateeCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\eachOfLimit.js:57:17)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\onlyOnce.js:12:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\async\internal\parallel.js:30:13 {
+    errors: { createdAtStamp: [MongooseError], deadlineStamp: [MongooseError] },
+    _message: 'orders validation failed'
+  }
+]
+2020-07-04T16:19:20: [
+  'Error saving new order in DB text.ru',
+  Error [ValidationError]: vacancies validation failed: deadlineDateStamp: Cast to Number failed for value "Sat Jul 04 2020 19:19:20 GMT+0300 (Восточная Европа, летнее время)36000000" at path "deadlineDateStamp"
+      at ValidationError.inspect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\validation.js:61:24)
+      at formatValue (internal/util/inspect.js:723:31)
+      at formatProperty (internal/util/inspect.js:1603:11)
+      at formatArray (internal/util/inspect.js:1433:17)
+      at formatRaw (internal/util/inspect.js:960:14)
+      at formatValue (internal/util/inspect.js:751:10)
+      at inspect (internal/util/inspect.js:289:10)
+      at formatWithOptionsInternal (internal/util/inspect.js:1918:40)
+      at Object.format (internal/util/inspect.js:1794:10)
+      at module.exports.errorLog (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\helpers\logger.js:38:33)
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\telegramBot\bot.js:45:25
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:4886:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\helpers\promiseOrCallback.js:16:11
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:4909:21
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\model.js:491:16
+      at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\kareem\index.js:246:48 {
+    errors: { deadlineDateStamp: [MongooseError] },
+    _message: 'vacancies validation failed'
+  }
+]
+2020-07-04T17:08:56: AssertionError [ERR_ASSERTION]: Method 'GET' already declared for route '/'
+    at Router._insert (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\find-my-way\index.js:286:9)
+    at Router._on (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\find-my-way\index.js:188:8)
+    at Router.on (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\find-my-way\index.js:73:8)
+    at Object.afterRouteAdded (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\route.js:232:16)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\route.js:170:25
+    at Object._encapsulateThreeParam (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\boot.js:459:7)
+    at Boot.timeoutCall (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\boot.js:370:5)
+    at Boot.callWithCbOrNextTick (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\boot.js:351:19)
+    at Boot._after (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\boot.js:235:26)
+    at Plugin.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:89:17)
+    at Boot.loadPlugin (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:187:10)
+    at Task.release (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastq\queue.js:140:16)
+    at worked (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastq\queue.js:182:10)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:190:7
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:136:5)
+    at check (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:147:7) {
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+2020-07-04T17:14:28: TypeError: Cannot read property 'url' of undefined
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\controllers\ordersAdmin\controller.js:4:40)
+    at preHandlerCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\handleRequest.js:117:30)
+    at preValidationCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\handleRequest.js:103:5)
+    at handler (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\handleRequest.js:69:5)
+    at handleRequest (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\handleRequest.js:18:5)
+    at onRunMiddlewares (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\middleware.js:22:5)
+    at middlewareCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\route.js:381:5)
+    at Object.routeHandler [as handler] (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastify\lib\route.js:359:7)
+    at Router.lookup (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\find-my-way\index.js:349:14)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:779:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:117:17)
+2020-07-05T18:33:33: Error: listen EADDRINUSE: address already in use 0.0.0.0:80
+    at Server.setupListenHandle [as _listen2] (net.js:1314:16)
+    at listenInCluster (net.js:1362:12)
+    at doListen (net.js:1499:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 80
+}
+2020-07-05T18:33:49: Error: listen EADDRINUSE: address already in use 0.0.0.0:80
+    at Server.setupListenHandle [as _listen2] (net.js:1314:16)
+    at listenInCluster (net.js:1362:12)
+    at doListen (net.js:1499:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 80
+}
+2020-07-05T18:45:44: Error: listen EADDRINUSE: address already in use 0.0.0.0:80
+    at Server.setupListenHandle [as _listen2] (net.js:1314:16)
+    at listenInCluster (net.js:1362:12)
+    at doListen (net.js:1499:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 80
+}
+2020-07-06T18:16:10: ReferenceError: path is not defined
+    at routes (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\controllers\ordersAdmin\controller.js:5:15)
+    at Plugin.exec (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:89:17)
+    at Boot.loadPlugin (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:187:10)
+    at Task.release (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastq\queue.js:140:16)
+    at worked (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\fastq\queue.js:182:10)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:190:7
+    at done (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:136:5)
+    at check (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\avvio\plugin.js:147:7)
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+2020-07-06T18:20:48: ReferenceError: path is not defined
+    at NativeConnection.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:22:15)
+    at Object.onceWrapper (events.js:421:28)
+    at NativeConnection.emit (events.js:315:20)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\connection.js:819:13
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\utils.js:731:5
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\mongo_client.js:220:7
+    at connectCallback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\operations\connect.js:350:5)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\operations\connect.js:586:5
+    at Object.callback (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\topology.js:297:43)
+    at processWaitQueue (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\topology.js:1036:21)
+    at NativeTopology.serverUpdateHandler (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\topology.js:554:7)
+    at Server.emit (events.js:315:20)
+    at Monitor.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\server.js:147:12)
+    at Monitor.emit (events.js:327:22)
+    at successHandler (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\monitor.js:154:13)
+    at C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongodb\lib\core\sdam\monitor.js:196:5
+2020-07-11T16:20:29: Error connecting to DB MongooseError [MongooseServerSelectionError]: Authentication failed.
+    at new MongooseServerSelectionError (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\error\serverSelection.js:22:11)
+    at NativeConnection.Connection.openUri (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\connection.js:823:32)
+    at Mongoose.connect (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\node_modules\mongoose\lib\index.js:333:15)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\config\db.js:10:14)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Module.require (internal/modules/cjs/loader.js:1080:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Files\Programs\OpenServer\OpenServer\domains\garant-application\index.js:4:12)
+    at Module._compile (internal/modules/cjs/loader.js:1176:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1196:10)
+    at Module.load (internal/modules/cjs/loader.js:1040:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:929:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12) {
+  reason: TopologyDescription {
+    type: 'Single',
+    setName: null,
+    maxSetVersion: null,
+    maxElectionId: null,
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    compatibilityError: null,
+    logicalSessionTimeoutMinutes: null,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    commonWireVersion: null
+  },
+  [Symbol(mongoErrorContextSymbol)]: {}
+}

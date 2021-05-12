@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="/ordersAdmin/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="vacancies-container">
+        <h1>Список вакансий</h1>
+        <div class="vacancies-list">
+            <% for(let i in data.vacancies) { %>
+                <div class="vacancy-block">
+                    <div class="vacancy-title"><%= data.vacancies[i].title %></div>
+                    <div class="vacancy-row">
+                        <div class="vacancy-tab price">
+                            <div class="vacancy-tab-name">Стоимость:</div>
+                            <p><%= data.vacancies[i].price %></p>
+                        </div>
+                        <div class="vacancy-tab status">
+                            <div class="vacancy-tab-name">Статус:</div>
+                            <p><%= data.vacancies[i].status %></p>
+                        </div>
+                        <div class="vacancy-tab created-at">
+                            <div class="vacancy-tab-name">Создан:</div>
+                            <p><%= data.vacancies[i].createdAtStr %></p>
+                        </div>
+                        <div class="vacancy-tab deadline">
+                            <div class="vacancy-tab-name">Дедлайн:</div>
+                            <p><%= data.vacancies[i].deadlineDateStr %></p>
+                        </div>
+                        <div class="vacancy-tab garant">
+                            <div class="vacancy-tab-name">Гарант:</div>
+                            <p><%= data.vacancies[i].garant %></p>
+                        </div>
+                    </div>
+                    <div class="vacancy-row">
+                        <div class="vacancy-tab tz">
+                            <div class="vacancy-tab-name">ТЗ:</div>
+                            <a href="/"><%= data.vacancies[i].tz %></a></div>
+                        <div class="vacancy-tab contacts">
+                            <div class="vacancy-tab-name">Контакты:</div>
+                            <p><%= data.vacancies[i].contacts %></p>
+                        </div>
+                        <div class="vacancy-tab description">
+                            <div class="vacancy-tab-name">Описание:</div>
+                            <p><%= data.vacancies[i].description %></p>
+                        </div>
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </div>
+</div>
+</body>
+</html>
